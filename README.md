@@ -1,96 +1,39 @@
-# Hi, I'm an AI Engineer 👋
+### Building AI systems from research to production
 
-I build **production-oriented AI systems and autonomous agents** — from retrieval and deep research to coding agents, tool use, evaluation, and secure execution.
+Focused on **AI agents, LLM applications, retrieval systems, document intelligence, and scalable ML infrastructure**.
 
-My focus is turning LLM capabilities into reliable software systems.
+I enjoy building systems that go beyond simple LLM wrappers — multi-step agents, tool execution, structured extraction, retrieval, evaluation, guardrails, and reliable backend infrastructure.
 
-### 🤖 What I work on
+#### Current interests
 
-* **AI Agents** — planning, tool use, multi-agent workflows, memory, and orchestration
+* 🤖 **AI Agents** — orchestration, tools, planning, memory, human-in-the-loop workflows
+* 🔎 **RAG & Deep Research** — heterogeneous materials, semantic retrieval, context construction
+* 📄 **Document Intelligence** — parsing, extraction, normalization, validation, cross-document reasoning
+* 🧠 **LLM / Foundation Models** — inference, evaluation, multilingual & multimodal systems
+* ⚙️ **AI Infrastructure** — model serving, async pipelines, observability, distributed workloads
+* 🔗 **Distributed Systems** — storage, state management, blockchain infrastructure
 
-* **LLM Systems** — model routing, structured generation, inference, and evaluation
+#### Open source & projects
 
-* **RAG & Deep Research** — heterogeneous ingestion, retrieval, reranking, citations, and long-context workflows
+Most repositories here explore different parts of the same problem:
 
-* **Coding Agents** — repository understanding, SWE-bench workflows, code generation, and execution
+**how to build autonomous AI systems that can reliably understand information, reason over it, use tools, and execute real work.**
 
-* **Computer-Use Agents** — browser/computer interaction and multimodal agent evaluation
+Recent work includes:
 
-* **Agent Infrastructure** — sandboxed execution, observability, pipelines, storage, and deployment
+* agentic research and knowledge systems
+* LLM routing, inference, and evaluation
+* coding / computer-use agents
+* multimodal agent evaluation
+* sandboxed tool execution
+* retrieval and document-processing infrastructure
+* distributed storage and blockchain systems
 
-### 🚀 Selected Projects
+#### Tech
 
-#### 🔬 Material Research
+`Python` · `Go` · `Rust` · `TypeScript` · `PyTorch` · `FastAPI`
+`PostgreSQL` · `pgvector` · `Redis` · `Docker` · `Kubernetes` · `AWS`
 
-Self-hosted AI research system for turning heterogeneous research materials — papers, source-code projects, datasets, and archives — into searchable and citable knowledge.
+---
 
-`RAG` · `Deep Research` · `Document Intelligence` · `Python` · `Dagster` · `PostgreSQL` · `MinIO` · `Qdrant`
-
-#### ⚔️ Duel Agents
-
-Multi-model agent routing and evaluation system focused on selecting effective model responses while controlling inference cost.
-
-`LLM Routing` · `Agents` · `Evaluation` · `Model Selection`
-
-#### 💻 SWE-bench Agent Experiments
-
-Experiments in autonomous software engineering and repository-level problem solving using SWE-bench.
-
-`Coding Agents` · `SWE-bench` · `Code Generation` · `Evaluation`
-
-#### 🖥️ Computer-Use Agent Evaluation
-
-Exploration of multimodal computer-using agents and environments for evaluating tool-driven interaction.
-
-`Computer Use` · `Multimodal Agents` · `Agent Evaluation` · `MCP`
-
-#### 🔐 Agent Sandbox
-
-Secure execution infrastructure for AI agents using WebAssembly-based isolation.
-
-`Agent Infrastructure` · `Sandboxing` · `WASM` · `Secure Execution`
-
-### 🧠 Engineering Interests
-
-```text
-
-LLM Agents        ████████████████████
-
-RAG / Retrieval   ████████████████████
-
-AI Engineering    ████████████████████
-
-Agent Evaluation  ██████████████████
-
-LLM Infrastructure██████████████████
-
-MLOps             ████████████████
-
-```
-
-### 🛠️ Stack
-
-**AI / LLM**
-
-`LLMs` · `RAG` · `Agents` · `Embeddings` · `Reranking` · `MCP` · `SWE-bench`
-
-**Backend**
-
-`Python` · `FastAPI` · `Pydantic` · `AsyncIO`
-
-**Data & Retrieval**
-
-`PostgreSQL` · `Qdrant` · `MinIO` · `Redis`
-
-**AI Infrastructure**
-
-`Dagster` · `Langfuse` · `Ollama` · `Docker`
-
-### 🎯 Current Focus
-
-Building AI systems that can:
-
-**understand → retrieve → reason → use tools → execute → evaluate → improve**
-
-with an emphasis on reliability, observability, evaluation, and production deployment.
-
+**Research → systems → production.**
